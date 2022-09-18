@@ -1,4 +1,4 @@
-# prologue
+# Prologue
 
 ドッスン君は新卒一年目であった
 
